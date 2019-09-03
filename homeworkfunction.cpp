@@ -10,7 +10,7 @@ int main()
 	string command;
 	cout << "Exit with 0\n";
 	cout << fixed;
-    cout << setprecision(2);
+        cout << setprecision(2);
 	cout << "Your balance : " << balance << endl; 
 	do{
 		cout << "Input command (1 or withdraw, 2 deposit ) : ";
