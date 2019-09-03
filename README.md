@@ -1,0 +1,2 @@
+# Homework-Function
+ex6
